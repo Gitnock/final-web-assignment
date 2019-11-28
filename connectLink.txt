@@ -1,0 +1,5 @@
+mongodb+srv://enock:Onlivegaming1@senecaweb-m4iqp.mongodb.net/web322_lab6?retryWrites=true&w=majority
+
+
+path:
+mongod --dbpath C:\Users\BitMining\Desktop\db
